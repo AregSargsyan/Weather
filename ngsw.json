@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1578331812589,
+  "timestamp": 1578343272981,
   "index": "/Weather/index.html",
   "assetGroups": [
     {
@@ -19,10 +19,7 @@
         "/Weather/runtime-es5.edb2fcf2778e7bf1d426.js",
         "/Weather/styles.c6708bbeef6472c17550.css"
       ],
-      "patterns": [
-        "https:\\/\\/api\\.openweathermap\\.org\\/data\\/2\\.5\\/forecast\\?id=616051&units=metric&APPID=c43bfb8f4335efe4e1714dd01126b645\\/.*",
-        "https:\\/\\/openweathermap\\.org\\/img\\/.*"
-      ]
+      "patterns": []
     },
     {
       "name": "assets",
@@ -77,7 +74,7 @@
     "/Weather/index.html": "3a810e36aaa039be93274bdedaaf901ea5985d4f",
     "/Weather/main-es2015.07534591da4d0e77d654.js": "ab79cebf73d24516f3db9deb90c53f4c13ca06cb",
     "/Weather/main-es5.07534591da4d0e77d654.js": "9a4288fe1eb79f48ed3307b4acbb5a5fd942fd83",
-    "/Weather/manifest.webmanifest": "c8d0661332fba38d9e7eeddd69cdfa8e8b94ee89",
+    "/Weather/manifest.webmanifest": "e5bd76b59801fefbd0f269b7028d65e33443961c",
     "/Weather/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
     "/Weather/polyfills-es5.df1101cc1e7b588877f8.js": "be7220c312d2c09c05c0e8aad50c5ec13d0c4c1f",
     "/Weather/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
